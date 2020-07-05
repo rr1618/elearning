@@ -9,6 +9,7 @@ activate the virtual environment : $pipenv shell </br>
 ### Install every package in the requirements.txt with the same version 
 $pip install <package_name>
 
+### $<folder_name>/django-admin startproject <project_na
 
 
 

@@ -9,10 +9,13 @@ activate the virtual environment : $pipenv shell </br>
 ### Install every package in the requirements.txt with the same version 
 $pip install <package_name>
 
-### $<folder_name>/django-admin startproject <project_name>
-Now clone entire repository in the project folder 
+### clone the repository in the <folder_name>
 
-### In the settings of the of the project folder Under the Installed Apps 
+### go to settings in the folder perfectplan and move to Databases
+### there enter the details of the database you created
+
+## Handling the frontend part
+### $ cd elearnfront
 
 
 
